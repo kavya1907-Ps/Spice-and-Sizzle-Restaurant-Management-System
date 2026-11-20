@@ -18,3 +18,5 @@ View your app in AI Studio: https://ai.studio/apps/8557cd53-5bb1-4470-9837-e1177
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Spice-and-Sizzle-Restaurant-Management-System
+A modern Indian Restaurant Ordering and Kitchen Management System featuring food menu management, order processing, kitchen tracking, billing, and sales reporting through an interactive and responsive user interface.
